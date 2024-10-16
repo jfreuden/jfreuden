@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Founder of [Barbarossa Interactive](https://www.barbarossa-interactive.com), an Indie Studio working on a small casual to-be-announced game.
+
+German-American living in the lovely Rheinland-Pfalz, Germany, near Kaiserslautern. 🇪🇺 🇩🇪
+
+I also go by "rainybyte" like on my [BlueSky Profile](https://bsky.app/profile/rainybyte.bsky.social)
+
 <!--
 **jfreuden/jfreuden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
