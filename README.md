@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Founder of [Barbarossa Interactive](https://www.barbarossa-interactive.com), an Indie Studio working on a small casual to-be-announced game.
+I'm Joshua Freudenhammer, Founder of [Barbarossa Interactive](https://www.barbarossa-interactive.com), an Indie Studio working on a small casual to-be-announced game.
 
 German-American living in the lovely Rheinland-Pfalz, Germany, near Kaiserslautern. 🇪🇺 🇩🇪
 
