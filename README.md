@@ -6,7 +6,7 @@ German-American currently living in the lovely Rheinland-Pfalz, Germany, near Ka
 
 I also go by "rainybyte" like on my [BlueSky Profile](https://bsky.app/profile/rainybyte.bsky.social)
 
-I'd love to chat about computer architecture, tech-art, competitive programming, physics, and all things STEAM (Science, Technology, Engineering, Art, Mathematics).
+I'd love to chat about computer architecture, tech-art, competitive programming, physics, and all things STEAM (Science, Technology, Engineering, Art, Mathematics). Reach out with your favorite puns!
 
 <!--
 **jfreuden/jfreuden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
