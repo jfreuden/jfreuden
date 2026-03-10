@@ -2,7 +2,9 @@
 
 I'm Joshua Freudenhammer, a CMU Physics graduate, [hobby game dev](https://www.barbarossa-interactive.com), generalist techy, and lost wanderer
 
-German-American currently living in the lovely Rheinland-Pfalz, Germany, near Kaiserslautern. 🇪🇺 🇩🇪
+German-American currently living in the lovely Rheinland-Pfalz, Germany, near Kaiserslautern.
+
+Open to relocating for the next adventure! 🇪🇺 🇩🇪 🇺🇸
 
 I also go by "rainybyte" like on my [BlueSky Profile](https://bsky.app/profile/rainybyte.bsky.social)
 
