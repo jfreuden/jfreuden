@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Joshua Freudenhammer, a CMU Physics graduate, [hobby game dev](https://www.barbarossa-interactive.com), generalist techy, and lost wanderer
+I'm Joshua Freudenhammer, a CMU Physics graduate, hobby game dev<!--[hobby game dev](https://www.barbarossa-interactive.com)-->, generalist techy, and lost wanderer
 
 German-American currently living in the lovely Rheinland-Pfalz, Germany, near Kaiserslautern.
 
